@@ -40,7 +40,7 @@ import org.springframework.format.annotation.DateTimeFormat;
  * Simple business object representing a pet.
  *
  * @author Ken Krebs
- * @author Juergen Hoeller
+ * @author Juergen Hoeller toto
  * @author Sam Brannen
  */
 @Entity
