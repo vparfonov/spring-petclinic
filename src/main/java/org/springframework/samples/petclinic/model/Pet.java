@@ -82,6 +82,15 @@ public class Pet extends NamedEntity {
 
     protected void setOwner(Owner owner) {
         this.owner = owner;
+      birthDatsdfqsdf();
+    }
+
+    /**
+     * 
+     */
+    private void birthDatsdfqsdf() {
+        // TODO Auto-generated method stub
+        
     }
 
     public Owner getOwner() {
