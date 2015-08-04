@@ -10,7 +10,7 @@ Factory | Name | Description
 
 
 
-test1
+test2
 
 ### Release Date: November 13th, 2014
 # Spring PetClinic Sample Application
