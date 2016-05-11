@@ -1,0 +1,2 @@
+FROM codenvy/ubuntu_jdk8 
+ENV GITHUB_DOCKER_FACTORY TEST
